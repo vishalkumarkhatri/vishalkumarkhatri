@@ -7,7 +7,7 @@
 </div>
 
 
-- 💬 Ask me about **NodeJS, ExpressJS, Tailwind CSS, MySQL, MongoDB, etc.**
+- 💬 Ask me about **C/C++, React.js, NodeJS, ExpressJS, Tailwind CSS, MySQL, MongoDB, etc.**
 
 - 📫 How to reach me **vk.khatri2003@gmail.com**
 
